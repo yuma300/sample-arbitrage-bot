@@ -1,0 +1,24 @@
+{
+  "name": "sample-arbitrage-bot",
+  "version": "1.0.0",
+  "description": "Sample arbitrage bot",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitbankinc/sample-market-making-bot.git"
+  },
+  "dependencies": {
+    "node-bitbankcc": "1.0.1",
+    "node-hitbtc": "git+ssh://git@github.com/yuma300/node-hitbtc.git"
+  },
+  "keywords": [
+    "bitbank.cc",
+    "bitcoin"
+  ],
+  "author": "bitblt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuma300/sample-arbitrage-bot/issues"
+  },
+  "homepage": "https://github.com/yuma300/sample-arbitrage-bot"
+}
