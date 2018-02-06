@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "node-bitbankcc": "1.0.1",
-    "node-hitbtc": "git+ssh://git@github.com/yuma300/node-hitbtc.git"
+    "node-hitbtc": "git+ssh://git@github.com/yuma300/node-hitbtc.git",
+    "promise-util-task": "0.0.3"
   },
   "keywords": [
     "bitbank.cc",
